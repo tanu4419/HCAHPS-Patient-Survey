@@ -1,5 +1,5 @@
 # HCAHPS Patient Survey Analysis
-[<img src="https://github.com/user-attachments/assets/80b73b1d-3975-410e-b5b3-507727dda584" width="1000" height="630">](https://github.com/user-attachments/assets/80b73b1d-3975-410e-b5b3-507727dda584) &nbsp;
+[<img src="https://github.com/user-attachments/assets/80b73b1d-3975-410e-b5b3-507727dda584" width="1000" height="530">](https://github.com/user-attachments/assets/80b73b1d-3975-410e-b5b3-507727dda584) &nbsp;
 
 ## Overview
 This project evaluates healthcare quality across hospitals in the United States by analyzing the HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) Patient Survey dataset. The goal is to derive actionable insights and present findings through an interactive and engaging Power BI report.
